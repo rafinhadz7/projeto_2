@@ -1,0 +1,9 @@
+body 
+texto {
+	font-size: 25px;
+	font-family: Segoe UI;
+	font-style: bold;
+	color: black;
+	line-height: 35px;
+	text-align: center;
+}
